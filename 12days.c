@@ -96,7 +96,7 @@ printf("and a Partridge in a Pear Tree\n\n\n");
 //Create a function pointer type with no inputs
 
 
-//Create a function pointers type with an int input
+//Create a function pointer type with an int input
 
  
  
